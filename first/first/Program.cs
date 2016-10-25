@@ -12,6 +12,7 @@ namespace first
         {
             Console.WriteLine();
             Console.WriteLine("I hate everything");
+            Console.WriteLine("About you");
             
         }
     }
