@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace first
+namespace helloworld
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine();
-            Console.WriteLine("I hate everything");
             
         }
     }
